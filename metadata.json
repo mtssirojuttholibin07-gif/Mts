@@ -1,0 +1,6 @@
+{
+  "name": "Setoran Tahfidz Quran",
+  "description": "Aplikasi pencatatan setoran hafalan Al-Qur'an (Ziyadah & Muroja'ah), mutaba'ah santri, rekapitulasi juz, penilaian tajwid & kelancaran, dan kartu setoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
